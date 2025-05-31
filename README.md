@@ -1,6 +1,6 @@
 # heart-disease-machine-learning-model
 
-# ❤️ Heart Disease Risk Prediction Web App
+# ❤️ Machine Learning-Based Heart Disease Risk Analyzer Web App
 
 This project is a machine learning-powered web app that predicts the risk of heart disease based on sleep quality and lifestyle habits using a dataset from Kaggle.
 
