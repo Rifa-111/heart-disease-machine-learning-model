@@ -9,6 +9,9 @@ Built with:
 - ✅ XGBoost Classifier
 - ✅ SHAP-ready architecture
 - ✅ Sleep & stress-based features
+  
+<img width="391" alt="Screenshot 2025-05-30 at 19 39 59" src="https://github.com/user-attachments/assets/0517a800-aaad-4307-baf2-380ca59db6f1" />
+
 
 ---
 
